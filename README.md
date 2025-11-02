@@ -1,2 +1,2 @@
-# the-odin-project
-All projects from The Odin Project course
+# The Odin Project
+All projects from [The Odin Project course](https://www.theodinproject.com/about)
