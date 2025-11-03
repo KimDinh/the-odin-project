@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    background-color:floralwhite;
+    box-sizing: border-box;
+}
+
+header {
+    padding-left: 5px;
+    height: 20px;
+}
+
+.content {
+    width: 700px;
+    margin-left: 100px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p, ul, ol {
+    padding-right: 50px
+}
